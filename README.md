@@ -1,6 +1,6 @@
 **List of key words with definitions:**
 
-✅Observability
+✅Observability  
 ✅OpenTelemetry
 ✅TCO (total cost of ownership)
 ✅SLA (Service Level Agreement)
